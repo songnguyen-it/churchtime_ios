@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "751826808234",
+    "firebase_url": "https://laravel-82163.firebaseio.com",
+    "project_id": "laravel-82163",
+    "storage_bucket": "laravel-82163.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751826808234:android:4b370682c1a26354018fd3",
+        "android_client_info": {
+          "package_name": "tientranzt.github.io.church_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751826808234-d4kvdlf3b5po732eul7a401o2qbcccfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYEe94pPT00Fj5NjsZH3TyevseZYyIVPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751826808234-d4kvdlf3b5po732eul7a401o2qbcccfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
