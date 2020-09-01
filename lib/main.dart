@@ -854,7 +854,7 @@ class HomeState extends State<Home> {
               onMapCreated: _onMapCreated,
               myLocationEnabled: true,
               myLocationButtonEnabled: true,
-              circles: circles,
+              // circles: circles,
               markers: Set<Marker>.of(markers.values),
               polylines: Set<Polyline>.of(polylines.values)),
       floatingActionButton: Row(
@@ -875,7 +875,7 @@ class HomeState extends State<Home> {
             onPressed: () {
               getLocation();
             },
-            child: Icon(Icons.refresh),
+            child: Icon(Icons.search),
           )
         ],
       ),
